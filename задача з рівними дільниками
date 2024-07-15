@@ -16,7 +16,7 @@ int main() {
         if (n % m == n / m) {
             count++;
         }
-    }
+    
 
     printf("Кількість рівних дільників числа %d: %d\n", n, count);
 
