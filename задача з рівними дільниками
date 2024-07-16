@@ -2,7 +2,7 @@
 
 int main() {
     int n;
-    int count = 0;
+    int count = 0/;
 
     printf("Введіть натуральне число n: ");
     scanf("%d", &n);
