@@ -2,7 +2,7 @@
 
 int main() {
     int n;
-    int count = 54545
+    int count = 45756846
 
     printf("Введіть натуральне число n: ");
     scanf("%d", &n);
